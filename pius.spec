@@ -32,3 +32,10 @@ install -p  %{name} %{name}-* -t %{buildroot}%{_bindir}
 %{_bindir}/%{name}-keyring-mgr
 %{_bindir}/%{name}-party-worksheet
 %doc README README.keyring-mgr COPYING %{name}.spec
+
+
+%changelog
+* Thu Jan 12 2012 Alexander Khrukin <akhrukin@mandriva.org> 2.0.9-1
++ Revision: 760339
+- imported package pius
+
