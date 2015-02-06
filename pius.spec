@@ -1,6 +1,6 @@
 Name:      pius
 Version:   2.0.9
-Release:   1
+Release:   2
 Summary:   A tool for signing and emailing all UIDs on a set of PGP keys
 
 Group:     Networking/Mail
