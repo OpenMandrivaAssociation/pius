@@ -5,7 +5,7 @@ Summary:   A tool for signing and emailing all UIDs on a set of PGP keys
 
 Group:     Networking/Mail
 License:   GPLv2
-URL:       http://www.phildev.net/pius
+URL:       https://www.phildev.net/pius
 Source0:   http://downloads.sourceforge.net/project/pgpius/pius/2.0.9/%{name}-%{version}.tar.bz2
 BuildArch: noarch
 
